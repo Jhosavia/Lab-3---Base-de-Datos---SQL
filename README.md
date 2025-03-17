@@ -248,7 +248,7 @@ HAVING SUM(population) >= 100000000
 
 
 # 6 *JOIN
-    1.  
+    1.  SELECT matchid, player FROM goal WHERE teamid = 'GER'
     
     2.  
     
